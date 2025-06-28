@@ -1,0 +1,13 @@
+command to create a python venv
+
+python -m venv langchainEnv
+
+activation on mac
+source langchainEnv/bin/activate
+
+activation on windows
+langchainEnv/Scripts/activate.bat
+
+
+installing requirements.txt
+pip install -r requirements.txt
